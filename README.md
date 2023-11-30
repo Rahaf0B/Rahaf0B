@@ -1,7 +1,14 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF6cGpranFzMXphcDFlcDZ0bjJuMnBmemg4emxwZXl3c21iZDJ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
-  
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/rahaf-bakeer/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:rahafbakeer123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Eamil Badge"/>
+  </a>
+</div>
 </div>
 <!--
 **Rahaf0B/Rahaf0B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
