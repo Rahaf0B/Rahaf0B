@@ -41,8 +41,9 @@
 <h2>My GitHub Stats</h2>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <be>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahaf0b&show_icons=true&theme=dark&locale=en&layout=compact" alt="" /></p>
+ <p><img align="left" height="180px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahaf0B&show_icons=true&layout=compact&theme=dracula&langs_count=9" /></p>
 
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahaf0b&show_icons=true&theme=dark&locale=en&layout=compact" alt="" /> -->
 <!--
 **Rahaf0B/Rahaf0B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
