@@ -11,7 +11,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=Rahaf0B&style=flat-square&color=blue" alt=""/>
    <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&pause=1000&color=9A57F7&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Rahaf+%F0%9F%91%8B;Back-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&pause=1000&color=9A57F7&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Rahaf+%F0%9F%91%8B;Software+Engineer;Problem+Solver" alt="Headline" />
     </div>
 <!-- <h1>
  Hi there
@@ -20,6 +20,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF6cGpranFzMXphcDFlcDZ0bjJuMnBmemg4emxwZXl3c21iZDJ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
    
 </div>
+<br>
 <h2>
 :woman_technologist: About Me :
   </h2>
