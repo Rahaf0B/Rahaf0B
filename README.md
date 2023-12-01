@@ -36,9 +36,9 @@ Currently taking a training with TAP in web development.
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rahaf0B)](https://github.com/Rahaf0B/github-readme-stats)
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahaf0b&show_icons=true&theme=dark&locale=en&layout=compact" alt="" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahaf0b&show_icons=true&theme=dark&locale=en&layout=compact" alt="" /></p>
 
- -->
+
 <!--
 **Rahaf0B/Rahaf0B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
